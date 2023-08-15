@@ -17,7 +17,7 @@ Welcome to our GitHub repository featuring 50+ Python applications with only 10 
 <p align="center">
 About Us : 
   <a href="">
-    @qxresearch
+    Eliud Duno
   </a>
 
 </p>
