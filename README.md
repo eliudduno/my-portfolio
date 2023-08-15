@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
-    <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/03/Python-Example-Logo-e1555498232969.jpg?resize=450%2C220" alt="Logo">
+    <img src="[https://blogthinkbig.com/wp-content/uploads/sites/4/2019/03/Python-Example-Logo-e1555498232969.jpg?resize=450%2C220](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/49257_Pythonlogo.jpg)" alt="Logo">
   </a>
 
 </p>
