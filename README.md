@@ -90,15 +90,6 @@ Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the depende
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are what make the open source community such an amazing place to learn, inspire, and create.
-
-1. [**Fork**](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a [**Pull Request**](https://github.com/qxresearch/qxresearch-event-1/pulls)
-
-
 <br>
 
 
