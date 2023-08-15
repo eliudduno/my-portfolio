@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
-    <img src="[[https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/10lines3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epitech-it.es%2Fpython-que-es-y-para-que-sirve%2F&psig=AOvVaw3dINlovDfGYP3fJO2XDX7B&ust=1692202002271000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiqweyF34ADFQAAAAAdAAAAABAw)](https://www.softzone.es/app/uploads-softzone.es/2021/12/Mejores-IDE-y-editores-de-codigo-para-programar-con-Python.jpg)" alt="Logo">
+    <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x" alt="Logo">
   </a>
 
 </p>
