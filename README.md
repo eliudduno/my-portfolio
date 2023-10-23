@@ -31,7 +31,7 @@ About Us :
 
 ### Python Application
 
-* 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
+* 📼 [Grabadora de voz](https://github.com/eliudduno/my-portfolio/tree/main/Applications/voice_recorder) : Grabadora de voz sencilla con límite de tiempo personalizado 
 * 🔑 [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protech a pdf with custom password 
 * 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
 * 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
