@@ -28,18 +28,3 @@ Que hace el programa?
 ### Contributing
 
 
-<h3 align="center"></h3>
-
-  <p align="center">
-    <br>
-    <br/>
-    <a href="https://youtu.be/qHloV2ZCo4s">View Demo</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
-    <br>
-    <br />
-  </p>
-</p>
-
