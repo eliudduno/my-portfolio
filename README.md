@@ -1,6 +1,6 @@
  <br />
 <p align="center">
-  <a href="https://qxresearch.github.io/qxresearch-event-1">
+  <a href="https://eliudduno.github.io/">
     <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/03/Python-Example-Logo-e1555498232969.jpg?resize=450%2C220](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/49257_Pythonlogo.jpg" alt="Logo">
   </a>
 
@@ -8,8 +8,7 @@
 
 
 
-Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
-
+¡Bienvenido a mi repositorio GitHub con más de 10 aplicaciones Python con sólo 20 líneas de código! En este repositorio, encontrarás una amplia gama de temas como Machine Learning, Deep Learning, GUI, Computer Vision y desarrollo de APIs. Cada aplicación está diseñada para ser simple y concisa, por lo que es fácil de entender y modificar. Tanto si eres un principiante como un desarrollador experimentado, estas aplicaciones son perfectas para aprender y experimentar con Python. Sumérgete, explora y diviértete.
 
 <br>
 <br>
@@ -23,8 +22,8 @@ About Us :
 </p>
   
 ```
-✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
-❌ If not, point out 'why' and spam the issue section 🚩 
+✔️ Si crees que este repositorio te ha ayudado a aprender algo nuevo puedes darle una estrella ⭐. 
+❌ Si no, señala 'por qué' y haz spam en la sección de problemas 🚩
 ```
 
 <br>
@@ -32,7 +31,7 @@ About Us :
 
 ### Python Application
 
-* 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
+* 📼 [Grabadora de voz](https://github.com/eliudduno/my-portfolio/tree/main/Applications/voice_recorder) : Grabadora de voz sencilla con límite de tiempo personalizado 
 * 🔑 [Password Protech PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protech a pdf with custom password 
 * 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
 * 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
