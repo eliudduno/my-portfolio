@@ -4,7 +4,7 @@
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/vo1.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Voice-Recorder</h3>
+  <h3 align="center">Grabadora de voz</h3>
 
   <p align="center">
     Aplicacion Python  | 10 Lineas de codigo 🧭
