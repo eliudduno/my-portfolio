@@ -1,6 +1,6 @@
  <br />
 <p align="center">
-  <a href="https://qxresearch.github.io/qxresearch-event-1">
+  <a href="https://eliudduno.github.io/">
     <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2019/03/Python-Example-Logo-e1555498232969.jpg?resize=450%2C220](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/49257_Pythonlogo.jpg" alt="Logo">
   </a>
 
@@ -22,8 +22,8 @@ About Us :
 </p>
   
 ```
-✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
-❌ If not, point out 'why' and spam the issue section 🚩 
+✔️ Si crees que este repositorio te ha ayudado a aprender algo nuevo puedes darle una estrella ⭐. 
+❌ Si no, señala 'por qué' y haz spam en la sección de problemas 🚩
 ```
 
 <br>
