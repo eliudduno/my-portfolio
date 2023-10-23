@@ -15,7 +15,7 @@
 Puedes crear un programa normal de recordatorio de cumpleaños usando `python`. Necesitas poner la fecha y hora del cumpleaños y el recordatorio y recibirás una notificación de tu cumpleaños o el de tu amigo. Pero creo que este programa es inútil porque tienes que mantener este código runnig ... podemos crear una notificación para hacer este código más fresco y listo para uso público` 
  ```
 Que hace el programa? 
-
+```
 - El usuario seleccionará la fecha de cumpleaños
 - El usuario seleccionará la hora del recordatorio
 - En ese día | hora el programa le deseará un feliz cumpleaños ❤️
