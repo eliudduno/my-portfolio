@@ -4,7 +4,7 @@
     <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/bb.gif" alt="Logo">
   </a>
 
-  <h3 align="center">Birthday Reminder</h3>
+  <h3 align="center">Recordatorio de Cumpleaños</h3>
 
   <p align="center">
     Python Application | 10 lines of code  🧭
@@ -42,3 +42,4 @@ Que hace el programa?
     <br />
   </p>
 </p>
+
