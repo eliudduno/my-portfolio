@@ -8,8 +8,7 @@
 
 
 
-Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
-
+¡Bienvenido a mi repositorio GitHub con más de 10 aplicaciones Python con sólo 20 líneas de código! En este repositorio, encontrarás una amplia gama de temas como Machine Learning, Deep Learning, GUI, Computer Vision y desarrollo de APIs. Cada aplicación está diseñada para ser simple y concisa, por lo que es fácil de entender y modificar. Tanto si eres un principiante como un desarrollador experimentado, estas aplicaciones son perfectas para aprender y experimentar con Python. Sumérgete, explora y diviértete.
 
 <br>
 <br>
