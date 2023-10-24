@@ -26,3 +26,4 @@ Button(root, text="Generate Password", command=get_pass).pack(pady=15)
 Entry(root, textvariable=passstr).pack(pady=2)
 
 root.mainloop()
+###
