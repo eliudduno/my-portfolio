@@ -32,7 +32,7 @@ About Us :
 ### Python Application
 
 * 📼 [Grabadora de voz](https://github.com/eliudduno/my-portfolio/tree/main/Applications/voice_recorder) : Grabadora de voz sencilla con límite de tiempo personalizado 
-* 🔑 [Protejer PDF con contraseña](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Proteger un pdf con contraseña personalizada 
+* 🔑 [Protejer PDF con contraseña](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Proteger%20contrase%C3%B1a%20PDF) : Proteger un pdf con contraseña personalizada 
 * 🗏 [Fusionar Multiples PDF](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Fusionar%20varios%20PDF) : Fusionar múltiples pdfs con python scripting
 * 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
 * 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
