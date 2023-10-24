@@ -36,7 +36,7 @@ About Us :
 * 🗏 [Fusionar Multiples PDF](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Fusionar%20varios%20PDF) : Fusionar múltiples pdfs con python scripting
 * 🔔 [Notificaciones en Windows](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Notificationn%20windows) : Notificación de ventanas personalizadas
 * 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
-* 📟 [Random Password Generator](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Generador%20de%20contrase%C3%B1as%20aleatorias) : Aplicación generadora de contraseñas aleatorias seguras 
+* 📟 [Generador de contraseñas aleatorias](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Generador%20de%20contrase%C3%B1as%20aleatorias) : Aplicación generadora de contraseñas aleatorias seguras 
 * 🎶 [Extrat mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
 * 🔗 [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener) : URL shortner from terminal
 * 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
