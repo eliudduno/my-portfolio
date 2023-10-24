@@ -6,3 +6,4 @@ while 1:
     notify = ToastNotifier()
     notify.show_toast("Time to laugh!", pyjokes.get_joke(), duration = 20)
     time.sleep(1000)
+
