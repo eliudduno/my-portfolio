@@ -43,7 +43,7 @@ About Us :
 * 🎂 [Recordatorio de Cumpleaños](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Birthday%20Reminder) : Recordatorio de cumpleaños para programadores perezosos
 * 📻 [Audiolibro](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Audiolibro) : Creador de audiolibros a partir de archivos de texto 
 * ⏰ [Alarma](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Alarm) : Alarma amistosa para que los programadores se tomen un descanso
-* ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Python script will play a youtube video at sheduled time
+* ⏱️ [Programador de videos youtube](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Programar Reproducir vídeos de YouTube usando un sencillo código Python para profanos.
 * 📆 [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
 * ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
 * 💻 [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot) : A tkinter based screenshot app with clickable button
