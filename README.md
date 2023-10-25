@@ -55,19 +55,19 @@ About Us :
 
 <br>
 
-### Machine Learning Applications 
+### Aplicaciones de aprendizaje automático 
 
 `chatGPT`
 
-- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
-- ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. script writer) 
-- 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's anoher API to convert text from audio
-- ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
-- 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
-- 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer) : This tool scraping a given website and summarizes the main context
-- ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
-- 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully
-- 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
+- ✒️ [email-automation]() : Tool to automate automate news briefing and blogging from custom senders (mail) 
+- ⭐ [custom-chatbot]() : ask chatbot to do custom work on the bases of the task (eg. script writer) 
+- 📟 [whisper-speech-text]() : OpenAI's anoher API to convert text from audio
+- ⚙️ [finetuned-gpt]() : Train chatGPT on your custom data & ask queries from that data
+- 💠 [voice-assistant]() : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
+- 🐻 [web-scraping-summarizer]() : This tool scraping a given website and summarizes the main context
+- ⌚ [your-prespective]() : You can train ChatGPT to perceive things the way you do, and it will imitate you!
+- 📖 [bhagavad-gita-gpt]() : A religious book which contains all the answers to find our purpose and to live it fully
+- 🏜 [vector-databse]() : This is how you can send big text files to chatgpt and avoid the token limits
 
 
 <br>
