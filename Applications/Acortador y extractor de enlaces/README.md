@@ -1,67 +1,35 @@
  <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
+  <a href="https://eliudduno.github.io/">
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/lin.gif" alt="Logo">
   </a>
 
-  <h3 align="center">Link Shortener and Link Extractor</h3>
+  <h3 align="center">Acortador y extractor de enlaces</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicacion Python | 10 lineas de codigo 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can create a `Python` program which can be used to shorten a big link and also to extract original link from a shortened link. For shortening the link, we'll use a shortening web service named `tinyurl`. You need to give your link in the terminal and you'll get the shortened link/ original link in the print-screen.
+Puedes crear un programa `Python` que sirva para acortar un enlace grande y también para extraer el enlace original de un enlace acortado. Para acortar el enlace, usaremos un servicio web de acortamiento llamado `tinyurl`. Necesitas dar tu enlace en la terminal y obtendrás el enlace acortado/ enlace original en la pantalla de impresión.
  ```
-What the program does? 
+¿Qué hace el programa? 
 
-1. Shortening Links
-- You have to give your big link in the terminal
-- Program will use tinyurl server for shortening the link without using any browser
-- Shortened link will pass by print() function
+1. Acortar enlaces
+- Usted tiene que dar su gran enlace en el terminal
+- El programa usará el servidor tinyurl para acortar el enlace sin usar ningún navegador
+- El enlace acortado pasará por la función print()
 
-2. Extracting Original Links
-- You have to give a shortened link in the terminal
-- Program will extract the original URL from the shortened link
-- Original link will pass by print() function
+2. Extracción de enlaces originales
+- Usted tiene que dar un enlace acortado en el terminal
+- El programa extraerá la URL original del enlace acortado
+- El enlace original pasará por la función print()
 ``` 
-### Requirements
+### Requiremientos
 
 * Python
-* Python Libraries: `pyshorteners`, `urllib3`, `requests`
+* Librerias Python: `pyshorteners`, `urllib3`, `requests`
 
-### Contributing
-
-Any kind of contributions to `qxresearch-event-1/link-shortener` are welcome. While creating an issue(for this project) use `Link-Shortener` Label.
-
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
-
-### Video Tutorial
-
-* **YouTube : ** [Link Shortener](https://youtu.be/JOx_c7ehwKI)
-
-### Become Official Member @qxresearch
-
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
-
-
-<h3 align="center"></h3>
-
-  <p align="center">
-    <br>
-    <br/>
-    <a href="https://youtu.be/JOx_c7ehwKI">View Demo</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
-    <br>
-    <br />
-  </p>
-</p>
+### Contribuciones
