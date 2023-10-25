@@ -39,7 +39,7 @@ About Us :
 * 📟 [Generador de contraseñas aleatorias](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Generador%20de%20contrase%C3%B1as%20aleatorias) : Aplicación generadora de contraseñas aleatorias seguras 
 * 🎶 [Extraer mp3 de mp4](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Extraer%20mp3%20de%20mp4) : Extraer audio de un vídeo con análisis sintáctico
 * 🔗 [Acortador de Enlaces](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Acortador%20y%20extractor%20de%20enlaces) : Acortador de URL desde terminal
-* 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
+* 🔋 [Trucos para Terminal](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Trucos%20para%20terminales) : Trucos de terminal #scripting
 * 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
 * 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Audiobook creator from text file 
 * ⏰ [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : Friendly alarm for programmers to take a break
