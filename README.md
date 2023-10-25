@@ -40,7 +40,7 @@ About Us :
 * 🎶 [Extraer mp3 de mp4](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Extraer%20mp3%20de%20mp4) : Extraer audio de un vídeo con análisis sintáctico
 * 🔗 [Acortador de Enlaces](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Acortador%20y%20extractor%20de%20enlaces) : Acortador de URL desde terminal
 * 🔋 [Trucos para Terminal](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Trucos%20para%20terminales) : Trucos de terminal #scripting
-* 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
+* 🎂 [Recordatorio de Cumpleaños](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Birthday%20Reminder) : Recordatorio de cumpleaños para programadores perezosos
 * 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Audiobook creator from text file 
 * ⏰ [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : Friendly alarm for programmers to take a break
 * ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Python script will play a youtube video at sheduled time
