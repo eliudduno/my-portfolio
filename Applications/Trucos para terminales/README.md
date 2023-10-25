@@ -17,9 +17,7 @@ Puedes hacer trucos con la terminal usando el programa `python`. Obtendrás 2 c�
  ```
 ¿Qué hace el programa? 
 
-- Tienes que elegir el color
-- Tienes que seleccionar: alfabeto | Número | Estilo de símbolo 
-- Esto es lo que qxresearch(alphabetic) parece: 
+- Tienes que elegir el color 
 ``` 
 ### Requirimientos
 
