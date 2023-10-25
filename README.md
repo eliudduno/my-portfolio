@@ -47,7 +47,7 @@ About Us :
 * 📆 [Calendario](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Calendario) : Una aplicación de calendario basada en tkinter(GUI toolkit) 
 * ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : Un clon de pintura interactivo basado en tkinter(GUI toolkit)
 * 💻 [Capturador de pantalla](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Captura%20de%20pantalla) : Una aplicación de captura de pantalla basada en tkinter con botón clicable
-* 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine) : Wekipedia API integrated tkinter based search engine
+* 📖 [Buscador Wikipedia](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Buscado%20wikipedia) : Buscador basado en tkinter integrado en la API de Wekipedia
 * 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/CSPRNG) : Building a CSRNG from scratch
 
 
