@@ -42,7 +42,7 @@ About Us :
 * 🔋 [Trucos para Terminal](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Trucos%20para%20terminales) : Trucos de terminal #scripting
 * 🎂 [Recordatorio de Cumpleaños](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Birthday%20Reminder) : Recordatorio de cumpleaños para programadores perezosos
 * 📻 [Audiolibro](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Audiolibro) : Creador de audiolibros a partir de archivos de texto 
-* ⏰ [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : Friendly alarm for programmers to take a break
+* ⏰ [Alarma](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Alarm) : Alarma amistosa para que los programadores se tomen un descanso
 * ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Python script will play a youtube video at sheduled time
 * 📆 [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
 * ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
