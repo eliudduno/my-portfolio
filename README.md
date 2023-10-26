@@ -59,40 +59,24 @@ About Us :
 
 `chatGPT`
 
-- ✒️ [email-automation]() : Tool to automate automate news briefing and blogging from custom senders (mail) 
-- ⭐ [custom-chatbot]() : ask chatbot to do custom work on the bases of the task (eg. script writer) 
-- 📟 [whisper-speech-text]() : OpenAI's anoher API to convert text from audio
-- ⚙️ [finetuned-gpt]() : Train chatGPT on your custom data & ask queries from that data
-- 💠 [voice-assistant]() : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
-- 🐻 [web-scraping-summarizer]() : This tool scraping a given website and summarizes the main context
-- ⌚ [your-prespective]() : You can train ChatGPT to perceive things the way you do, and it will imitate you!
-- 📖 [bhagavad-gita-gpt]() : A religious book which contains all the answers to find our purpose and to live it fully
-- 🏜 [vector-databse]() : This is how you can send big text files to chatgpt and avoid the token limits
+- ✒️ [email-automatización]() : Herramienta para automatizar el envío de noticias y blogs desde remitentes personalizados (correo) 
+- ⭐ [custom-chatbot]() : pedir al chatbot que realice un trabajo personalizado en función de la tarea (por ejemplo, guionista) 
+- 📟 [whisper-speech-text]() : API anoher de OpenAI para convertir texto de audio
+- ⚙️ [finetuned-gpt]() : Entrena chatGPT con tus datos personalizados y realiza consultas a partir de esos datos
+- 💠 [asistente de voz]() : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio) 
+- 🐻 [web-scraping-summarizer]() : Esta herramienta raspado de un sitio web dado y resume el contexto principal
+- ⌚ [tu-prespectiva]() : Puedes entrenar a ChatGPT para que perciba las cosas como tú, ¡y te imitará!
+- 📖 [bhagavad-gita-gpt]() : Libro religioso que contiene todas las respuestas para encontrar nuestro propósito y vivirlo plenamente
+- 🏜 [vector-databse]() : Así es como puedes enviar grandes archivos de texto a chatgpt y evitar los límites de tokens
 
 
 <br>
 
 ### Setup 
 
-Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the dependencies and generate API keys and incorporate with our applications. I've articulated the steps in text format here : 
-
-- Install the dependencies following these steps : 
-
-  - Star this repository (top right corner) 
-  - <>Code > Download ZIP > Open cmd/terminal in that location
-  - Run this command : `pip install -r requirements.txt`
-  - Replace API keys in `yml` files 
-
-\* The setup for different projects might not be the same. Please refer to the individual setup guides given for each project.
 
 <br>
 
-### Contributing
+### Contribuciones
 
 <br>
-
-
-### Do you want to join @qxresearch and contribute to new projects? 
-
-* Fill up this [Form](https://forms.gle/tqR8Pa6j27CHaorT6)
-* Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch) 
