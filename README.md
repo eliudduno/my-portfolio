@@ -50,31 +50,6 @@ About Us :
 * 📖 [Buscador Wikipedia](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Buscado%20wikipedia) : Buscador basado en tkinter integrado en la API de Wekipedia
 * 🛠️ [Cryptographically Secured Random Number Generator]() : Building a CSRNG from scratch
 
-
-
-
-<br>
-
-### Aplicaciones de aprendizaje automático - en desarrollo!!
-
-`chatGPT`
-
-- ✒️ [email-automatización]() : Herramienta para automatizar el envío de noticias y blogs desde remitentes personalizados (correo) 
-- ⭐ [custom-chatbot]() : pedir al chatbot que realice un trabajo personalizado en función de la tarea (por ejemplo, guionista) 
-- 📟 [whisper-speech-text]() : API anoher de OpenAI para convertir texto de audio
-- ⚙️ [finetuned-gpt]() : Entrena chatGPT con tus datos personalizados y realiza consultas a partir de esos datos
-- 💠 [asistente de voz]() : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio) 
-- 🐻 [web-scraping-summarizer]() : Esta herramienta raspado de un sitio web dado y resume el contexto principal
-- ⌚ [tu-prespectiva]() : Puedes entrenar a ChatGPT para que perciba las cosas como tú, ¡y te imitará!
-- 📖 [bhagavad-gita-gpt]() : Libro religioso que contiene todas las respuestas para encontrar nuestro propósito y vivirlo plenamente
-- 🏜 [vector-databse]() : Así es como puedes enviar grandes archivos de texto a chatgpt y evitar los límites de tokens
-
-
-<br>
-
-### Setup 
-
-
 <br>
 
 ### Contribuciones
