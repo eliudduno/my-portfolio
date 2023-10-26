@@ -55,7 +55,7 @@ About Us :
 
 <br>
 
-### Aplicaciones de aprendizaje automático 
+### Aplicaciones de aprendizaje automático - en desarrollo!!
 
 `chatGPT`
 
