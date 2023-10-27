@@ -13,7 +13,9 @@
   </p>
 </p>
 
-Puedes crear tu propio generador de contraseñas aleatorias usando `Python`. En este proyecto vamos a utilizar una herramienta GUI (interfaz gráfica de usuario) llamado `tkinter` para crear una ventana para conseguir un software fresco como sentir en él.```
+Puedes crear tu propio generador de contraseñas aleatorias usando `Python`. En este proyecto vamos a utilizar una herramienta GUI (interfaz gráfica de usuario) llamado `tkinter` para crear una ventana para conseguir un software fresco como sentir en él.
+
+```
 ¿Qué hace el programa? 
 
 - Necesita seleccionar algunos parámetros: ascii_letters | Punctuation | digits | alpha | symbol | number 
