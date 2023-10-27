@@ -45,7 +45,7 @@ About Us :
 * ⏰ [Alarma](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Alarm) : Alarma amistosa para que los programadores se tomen un descanso
 * ⏱️ [Programador de videos youtube](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Programar%20v%C3%ADdeo%20YouTube%20Python) : Programar Reproducir vídeos de YouTube usando un sencillo código Python para profanos.
 * 📆 [Calendario](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Calendario) : Una aplicación de calendario basada en tkinter(GUI toolkit) 
-* ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : Un clon de pintura interactivo basado en tkinter(GUI toolkit)
+* ✏️ [Paint](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Paint) : Un clon de pintura interactivo basado en tkinter(GUI toolkit)
 * 💻 [Capturador de pantalla](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Captura%20de%20pantalla) : Una aplicación de captura de pantalla basada en tkinter con botón clicable
 * 📖 [Buscador Wikipedia](https://github.com/eliudduno/my-portfolio/tree/main/Applications/Buscado%20wikipedia) : Buscador basado en tkinter integrado en la API de Wekipedia
 * 🛠️ [Cryptographically Secured Random Number Generator]() : Building a CSRNG from scratch
